@@ -914,7 +914,7 @@ camelcase@^6.0.0:
 
 caniuse-lite@^1.0.30001093, caniuse-lite@^1.0.30001113, caniuse-lite@^1.0.30001154, caniuse-lite@^1.0.30001173, caniuse-lite@^1.0.30001178:
   version "1.0.30001179"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001179.tgz#b0803883b4471a6c62066fb1752756f8afc699c8"
+  resolved "https://registry.npmjs.org/caniuse-lite/-/caniuse-lite-1.0.30001179.tgz"
   integrity sha512-blMmO0QQujuUWZKyVrD1msR4WNDAqb/UPO1Sw2WWsQ7deoM5bJiicKnWJ1Y0NS/aGINSnKPIWBMw5luX+NDUCA==
 
 chalk@2.4.2, chalk@^2.0.0, chalk@^2.4.1, chalk@^2.4.2:
@@ -4125,6 +4125,11 @@ source-map@^0.5.6:
   version "0.5.7"
   resolved "https://registry.yarnpkg.com/source-map/-/source-map-0.5.7.tgz#8a039d2d1021d22d1ea14c80d8ea468ba2ef3fcc"
   integrity sha1-igOdLRAh0i0eoUyA2OpGi6LvP8w=
+
+spacetime@^6.12.2:
+  version "6.12.2"
+  resolved "https://registry.yarnpkg.com/spacetime/-/spacetime-6.12.2.tgz#b553a7cad31f74ed9f991f374c0f9ce495024e14"
+  integrity sha512-w0St4Q9X8KtuZ/JY8+FM8a4hMrAoNNUWQCt9UQQAUzwk8eDW5wrGh4SaNvEg+9cjLF++vixm6SgJyC6F7ALF/A==
 
 split-string@^3.0.1, split-string@^3.0.2:
   version "3.1.0"
